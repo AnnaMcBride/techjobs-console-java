@@ -127,7 +127,7 @@ public class JobData {
             e.printStackTrace();
         }
     }
-//to do step 2 findByValue
+//to do findByValue public
     public static ArrayList<HashMap<String, String>> findByValue(String userEnterValue) {
 
             loadData();
